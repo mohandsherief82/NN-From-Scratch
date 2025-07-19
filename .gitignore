@@ -1,0 +1,5 @@
+*.csv
+.idea
+GIT/
+test.py
+__pycache__/
